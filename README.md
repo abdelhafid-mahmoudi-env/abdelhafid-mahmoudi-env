@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdelhafid-mahmoudi-env)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdelhafid-mahmoudi-env&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @abdelhafid-mahmoudi-env
 - 👀 I’m interested in ...
